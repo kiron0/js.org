@@ -3063,6 +3063,7 @@ var cnames_active = {
   "simplecounter": "tomkiernan120.github.io/simplecounter",
   "simplecrypto": "danang-id.github.io/simple-crypto-js",
   "simplelightbox": "andreknieriem.github.io/simplelightbox",
+  "sqezx3d": "sqezx3d.github.io",
   "simpler-state": "arnelenero.github.io/simpler-state",
   "simples": "micnic.github.io/simples",
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
